@@ -28,6 +28,7 @@ Partial Class AnimalShooterUniverse
         Me.btnStart = New System.Windows.Forms.Button()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox2 = New System.Windows.Forms.ComboBox()
         Me.SuspendLayout()
         '
         'Label1
@@ -67,7 +68,7 @@ Partial Class AnimalShooterUniverse
         '
         Me.btnStart.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnStart.Location = New System.Drawing.Point(323, 367)
-        Me.btnStart.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnStart.Margin = New System.Windows.Forms.Padding(2)
         Me.btnStart.Name = "btnStart"
         Me.btnStart.Size = New System.Drawing.Size(151, 48)
         Me.btnStart.TabIndex = 3
@@ -91,18 +92,28 @@ Partial Class AnimalShooterUniverse
         Me.ComboBox1.Size = New System.Drawing.Size(121, 21)
         Me.ComboBox1.TabIndex = 5
         '
+        'ComboBox2
+        '
+        Me.ComboBox2.FormattingEnabled = True
+        Me.ComboBox2.Items.AddRange(New Object() {"anjing"})
+        Me.ComboBox2.Location = New System.Drawing.Point(84, 174)
+        Me.ComboBox2.Name = "ComboBox2"
+        Me.ComboBox2.Size = New System.Drawing.Size(121, 21)
+        Me.ComboBox2.TabIndex = 6
+        '
         'AnimalShooterUniverse
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(796, 547)
+        Me.Controls.Add(Me.ComboBox2)
         Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.btnStart)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "AnimalShooterUniverse"
         Me.Text = "AnimalShooterUniverse"
         Me.ResumeLayout(False)
@@ -116,4 +127,5 @@ Partial Class AnimalShooterUniverse
     Friend WithEvents btnStart As Button
     Friend WithEvents Label4 As Label
     Friend WithEvents ComboBox1 As ComboBox
+    Friend WithEvents ComboBox2 As ComboBox
 End Class
