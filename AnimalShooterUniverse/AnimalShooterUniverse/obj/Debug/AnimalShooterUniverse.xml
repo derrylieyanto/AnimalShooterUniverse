@@ -22,5 +22,20 @@ AnimalShooterUniverse
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.cat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.cat1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.cat2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>

@@ -3,7 +3,7 @@
 
 
     Public Sub New()
-        MyBase.New(100, 15)
+        MyBase.New(100, 20)
     End Sub
 
     Public Sub Skill()
