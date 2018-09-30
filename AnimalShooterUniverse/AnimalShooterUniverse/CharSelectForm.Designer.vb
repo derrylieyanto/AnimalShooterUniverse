@@ -22,7 +22,6 @@ Partial Class CharSelectForm
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-<<<<<<< HEAD
         Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
@@ -35,27 +34,17 @@ Partial Class CharSelectForm
         Me.Button1.Text = "Button1"
         Me.Button1.UseVisualStyleBackColor = True
         '
-=======
-        Me.SuspendLayout()
-        '
->>>>>>> d9e0b4d400f9a9c3d9993335543b4d8a737c9e09
         'CharSelectForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1062, 673)
-<<<<<<< HEAD
         Me.Controls.Add(Me.Button1)
-=======
->>>>>>> d9e0b4d400f9a9c3d9993335543b4d8a737c9e09
         Me.Name = "CharSelectForm"
         Me.Text = "CharSelectForm"
         Me.ResumeLayout(False)
 
     End Sub
-<<<<<<< HEAD
 
     Friend WithEvents Button1 As Button
-=======
->>>>>>> d9e0b4d400f9a9c3d9993335543b4d8a737c9e09
 End Class

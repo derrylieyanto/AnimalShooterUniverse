@@ -73,21 +73,15 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="Animal.vb" />
     <Compile Include="Cat.vb" />
-=======
->>>>>>> d9e0b4d400f9a9c3d9993335543b4d8a737c9e09
     <Compile Include="CharSelectForm.Designer.vb">
       <DependentUpon>CharSelectForm.vb</DependentUpon>
     </Compile>
     <Compile Include="CharSelectForm.vb">
       <SubType>Form</SubType>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="Dog.vb" />
-=======
->>>>>>> d9e0b4d400f9a9c3d9993335543b4d8a737c9e09
     <Compile Include="MainForm.Designer.vb">
       <DependentUpon>MainForm.vb</DependentUpon>
     </Compile>
