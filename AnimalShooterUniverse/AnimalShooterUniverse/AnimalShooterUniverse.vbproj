@@ -73,12 +73,15 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Animal.vb" />
+    <Compile Include="Cat.vb" />
     <Compile Include="CharSelectForm.Designer.vb">
       <DependentUpon>CharSelectForm.vb</DependentUpon>
     </Compile>
     <Compile Include="CharSelectForm.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Dog.vb" />
     <Compile Include="MainForm.Designer.vb">
       <DependentUpon>MainForm.vb</DependentUpon>
     </Compile>
