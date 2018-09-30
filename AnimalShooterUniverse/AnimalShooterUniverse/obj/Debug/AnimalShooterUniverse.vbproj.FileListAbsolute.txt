@@ -12,17 +12,17 @@ C:\Users\DER\Desktop\MATERI KULIAH\Semester 5\Prog GUI\AnimalShooterUniverse\Ani
 C:\Users\DER\Desktop\MATERI KULIAH\Semester 5\Prog GUI\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.exe
 C:\Users\DER\Desktop\MATERI KULIAH\Semester 5\Prog GUI\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.xml
 C:\Users\DER\Desktop\MATERI KULIAH\Semester 5\Prog GUI\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.pdb
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\bin\Debug\AnimalShooterUniverse.exe.config
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\bin\Debug\AnimalShooterUniverse.exe
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\bin\Debug\AnimalShooterUniverse.pdb
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\bin\Debug\AnimalShooterUniverse.xml
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.vbprojAssemblyReference.cache
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.CharSelectForm.resources
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.MainForm.resources
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.AnimalShooterUniverse.resources
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.Resources.resources
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.vbproj.GenerateResource.cache
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.vbproj.CoreCompileInputs.cache
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.exe
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.xml
-C:\Users\owen\Source\Repos\AnimalShooterUniverse\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.pdb
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\bin\Debug\AnimalShooterUniverse.exe.config
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\bin\Debug\AnimalShooterUniverse.exe
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\bin\Debug\AnimalShooterUniverse.pdb
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\bin\Debug\AnimalShooterUniverse.xml
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.vbprojAssemblyReference.cache
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.CharSelectForm.resources
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.MainForm.resources
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.AnimalShooterUniverse.resources
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.Resources.resources
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.vbproj.GenerateResource.cache
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.vbproj.CoreCompileInputs.cache
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.exe
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.xml
+C:\Users\owen\Desktop\AnimalShooterUniverse\AnimalShooterUniverse\obj\Debug\AnimalShooterUniverse.pdb

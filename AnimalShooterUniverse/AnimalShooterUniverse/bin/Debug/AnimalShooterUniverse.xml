@@ -22,5 +22,165 @@ AnimalShooterUniverse
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.anjing1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.anjing2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.banteng1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.banteng2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.burungunta1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.burungunta2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.fishbone1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.fishbone2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.hyena1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.hyena2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.kadal1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.kadal2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.keledai1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.keledai2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.kucing1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.kucing2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.kurakura1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.kurakura2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.monyet1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.monyet2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.orangutan1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.orangutan2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.panda1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.panda2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.singa1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.singa2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.trenggiling1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.trenggiling2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.ular1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.ular2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.unta1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnimalShooterUniverse.My.Resources.Resources.unta2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>

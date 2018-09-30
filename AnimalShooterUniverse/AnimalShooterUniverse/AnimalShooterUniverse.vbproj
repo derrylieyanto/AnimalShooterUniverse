@@ -122,7 +122,7 @@
       <DependentUpon>TitleForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
-      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
@@ -139,6 +139,150 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\anjing1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\banteng1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\burungunta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\hyena1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\kadal1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\keledai1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\kurakura1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\monyet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\orangutan1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\panda1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\singa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\trenggiling1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\ular1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\unta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbayangan\cat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anjing1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anjing2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banteng1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banteng2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burungunta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burungunta2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fishbone1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fishbone2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hyena1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hyena2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kadal1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kadal2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keledai1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keledai2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kurakura1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kurakura2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monyet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monyet2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangutan1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangutan2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panda1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panda2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\singa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\singa2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trenggiling1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trenggiling2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ular1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ular2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unta2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
